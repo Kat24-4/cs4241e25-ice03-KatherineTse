@@ -2,7 +2,7 @@
 
 ### Three.js Audio Visualizer 
 
-Hosting Link: 
+Hosting Link: cs4241e25-ice03-katherinetse-production.up.railway.app
 
 Contributors: Katherine Tse (solo)
 
