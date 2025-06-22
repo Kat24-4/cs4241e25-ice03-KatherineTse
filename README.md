@@ -1,15 +1,15 @@
-# ICE 03: The Other One
+# Katherine Tse ICE 03 Readme
 
-In this activity, you will complete a simplified version of A4, specifically using the option you did NOT chooose for that assignment.
+### Three.js Audio Visualizer 
 
-### Instructions
+Hosting Link: 
 
-1. Decide whether you want to work alone or with others in this ISP. If you are working with others, make sure to include a README in your final submission with all of your group members.
-   
-2. Go to the version of A4 you did NOT choose and complete the assignment with the following modifications:
-	* You should submit a pull request against THIS assignment, NOT A4.
-    * **Components:** You should start with your existing submission for A2 or A3.
-    * **Creative Coding:** You should choose which of the technologies on the list you want to explore. You must choose at least one but can do more than one.
-    * **As this is an in-class activity, we are NOT expecting the same level of complexity as A4,** although we are expecting you to demonstrate a basic understanding of the technologies in question.
-    * Your README should include your hosting link, the name of all group members, the contributions of each group member, and any instructions necessary to use the application. You can ignore the points in A4 about goals and challenges.
+Contributors: Katherine Tse (solo)
 
+Instructions: 
+- When you load the page, a plane start page will appear. Click anywhere to start the program.
+- Ensure that your volume is on so that you can hear the music that is controlling the animation.
+- On the right side there are controls for three aspects of the shape 
+  - y: you can use the slider to change the y position of the shape (the shape rotates around the x-axis, and you can control the shapes position on the y-axis)
+  - color: you can change the color of the object by inputting a hex code or clicking on the colored square which will open a color picker 
+  - shininess: you can use the slider to change how shiny the object is (it goes from matte to very shiny)
